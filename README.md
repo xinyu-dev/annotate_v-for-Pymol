@@ -6,4 +6,4 @@ A simple-to-use script for annotation of VH or VL sequence of an antibody in Pym
 
 Built based on the `annotate_v` python script. 
 
-For explanation of usage, visit PymolWiki [page](https://pymolwiki.org/index.php/Annotate_v)
+For explanation of usage, visit [PymolWiki page](https://pymolwiki.org/index.php/Annotate_v)
